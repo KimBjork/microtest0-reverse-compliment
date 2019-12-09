@@ -4,7 +4,7 @@ rm build/libs/reverseCompliment-1.0-SNAPSHOT
 rm build/libs/reverseCompliment-1.0-SNAPSHOT.jar
 
 ./gradlew shadowJar
-/home/kimbjork/Downloads/graalvm-ce-java8-19.3.0/bin/native-image --no-server --no-fallback -jar build/libs/reverseCompliment-1.0-SNAPSHOT.jar
+/home/kimbjork/Downloads/graalvm-ce-19.2.1/bin/native-image --no-server --no-fallback -jar build/libs/reverseCompliment-1.0-SNAPSHOT.jar
 ./reverseCompliment-1.0-SNAPSHOT
 mv reverseCompliment-1.0-SNAPSHOT build/libs/reverseCompliment-1.0-SNAPSHOT
 zip -j build/libs/function.zip build/libs/bootstrap build/libs/reverseCompliment-1.0-SNAPSHOT build/libs/fasta-1000000
