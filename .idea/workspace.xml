@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ee98163-e126-4563-a107-2a49c7e34d5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1UZD7tQ1uLfb2kFaWK4mad1i5Yn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/build/libs" />
+      <recent name="$PROJECT_DIR$/done-files" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+      <recent name="$PROJECT_DIR$/done-files" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="reverseCompliment.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ee98163-e126-4563-a107-2a49c7e34d5b" name="Default Changelist" comment="" />
+      <created>1575555059134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575555059134</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="166" width="800" height="677" key="#Project_Structure" timestamp="1575555141473">
+      <screen x="67" y="27" width="1853" height="957" />
+    </state>
+    <state x="588" y="166" width="800" height="677" key="#Project_Structure/67.27.1853.957@67.27.1853.957" timestamp="1575555141473" />
+    <state x="662" y="310" width="633" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575902796381">
+      <screen x="67" y="27" width="1853" height="957" />
+    </state>
+    <state x="662" y="310" width="633" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.957@67.27.1853.957" timestamp="1575902796381" />
+    <state width="1807" height="247" key="GridCell.Tab.0.bottom" timestamp="1575902806758">
+      <screen x="67" y="27" width="1853" height="957" />
+    </state>
+    <state width="1807" height="247" key="GridCell.Tab.0.bottom/67.27.1853.957@67.27.1853.957" timestamp="1575902806758" />
+    <state width="1807" height="247" key="GridCell.Tab.0.center" timestamp="1575902806757">
+      <screen x="67" y="27" width="1853" height="957" />
+    </state>
+    <state width="1807" height="247" key="GridCell.Tab.0.center/67.27.1853.957@67.27.1853.957" timestamp="1575902806757" />
+    <state width="1807" height="247" key="GridCell.Tab.0.left" timestamp="1575902806756">
+      <screen x="67" y="27" width="1853" height="957" />
+    </state>
+    <state width="1807" height="247" key="GridCell.Tab.0.left/67.27.1853.957@67.27.1853.957" timestamp="1575902806756" />
+    <state width="1807" height="247" key="GridCell.Tab.0.right" timestamp="1575902806758">
+      <screen x="67" y="27" width="1853" height="957" />
+    </state>
+    <state width="1807" height="247" key="GridCell.Tab.0.right/67.27.1853.957@67.27.1853.957" timestamp="1575902806758" />
+  </component>
+</project>
